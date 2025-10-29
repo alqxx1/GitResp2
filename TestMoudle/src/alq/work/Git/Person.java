@@ -8,4 +8,6 @@ package alq.work.Git;
  */
 public class Person {
     private String name;
+    private String getName;
+    private int age;
 }
